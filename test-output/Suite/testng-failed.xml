@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="NewUserCreation(failed)">
+    <classes>
+      <class name="qualicoach.CreateNewUser">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testLogin"/>
+          <include name="NewUserCreation"/>
+        </methods>
+      </class> <!-- qualicoach.CreateNewUser -->
+    </classes>
+  </test> <!-- NewUserCreation(failed) -->
+  <test name="CreatingNewCourse(failed)">
+    <classes>
+      <class name="qualicoach.CreateCourse">
+        <methods>
+          <include name="testLogin"/>
+          <include name="tearDown"/>
+          <include name="CreateNewCourse"/>
+        </methods>
+      </class> <!-- qualicoach.CreateCourse -->
+    </classes>
+  </test> <!-- CreatingNewCourse(failed) -->
+  <test name="Enrolling New Course(failed)">
+    <classes>
+      <class name="qualicoach.CourseEnroll">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testLogin"/>
+          <include name="EnrollIntoCourse"/>
+        </methods>
+      </class> <!-- qualicoach.CourseEnroll -->
+    </classes>
+  </test> <!-- Enrolling New Course(failed) -->
+  <test name="DeletingUser(failed)">
+    <classes>
+      <class name="qualicoach.DeleteUser">
+        <methods>
+          <include name="UserDeletion"/>
+          <include name="testLogin"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- qualicoach.DeleteUser -->
+    </classes>
+  </test> <!-- DeletingUser(failed) -->
+</suite> <!-- Failed suite [Suite] -->

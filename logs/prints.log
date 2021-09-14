@@ -1,0 +1,50 @@
+14:58:41.298 [main] INFO  resources.Base - Successfully Downloaded the certificate
+14:58:45.031 [main] INFO  resources.Base - Landed into the URL Successfully
+14:58:45.033 [main] INFO  resources.Base - ---------------------------------
+14:58:45.033 [main] INFO  resources.Base - Edit User Profile
+14:58:52.886 [main] INFO  resources.Base - Landed into the URL Successfully
+14:59:04.050 [main] INFO  resources.Base - Logged In Successfully
+14:59:04.133 [main] INFO  resources.Base - Landed into the DashBoard Page
+14:59:14.583 [main] INFO  resources.Base - Landed into the Edit Profile Page
+14:59:20.731 [main] INFO  resources.Base - User Information Updated Successfully
+14:59:20.732 [main] INFO  resources.Base - ---------------------------------
+14:59:27.897 [main] INFO  resources.Base - ---------------------------------
+14:59:27.897 [main] INFO  resources.Base - Deleting User
+14:59:36.629 [main] INFO  resources.Base - Landed Into the URL successfully
+14:59:36.630 [main] INFO  resources.Base - Landed Into LogIn Page Successfully
+14:59:44.429 [main] INFO  resources.Base - Logged In Successfully
+14:59:44.515 [main] INFO  resources.Base - Clicked On User Tab
+14:59:51.112 [main] INFO  resources.Base - Clicked On Browse List Of User
+14:59:55.266 [main] INFO  resources.Base - Entered the User Name in search box and clicked on Filter
+15:02:17.557 [main] INFO  resources.Base - Landed into the URL Successfully
+15:02:52.458 [main] INFO  resources.Base - Logged In Successfully
+15:08:41.934 [main] INFO  resources.Base - ---------------------------------
+15:08:41.941 [main] INFO  resources.Base - Deleting User
+15:08:50.595 [main] INFO  resources.Base - Landed Into the URL successfully
+15:08:50.601 [main] INFO  resources.Base - Landed Into LogIn Page Successfully
+15:08:59.042 [main] INFO  resources.Base - Logged In Successfully
+15:08:59.143 [main] INFO  resources.Base - Clicked On User Tab
+15:09:04.916 [main] INFO  resources.Base - Clicked On Browse List Of User
+15:09:08.793 [main] INFO  resources.Base - Entered the User Name in search box and clicked on Filter
+15:24:54.501 [main] INFO  resources.Base - Landed into the URL Successfully
+15:24:54.536 [main] INFO  resources.Base - Enrolling New Course
+15:25:26.983 [main] INFO  resources.Base - User Logged in Successfully
+15:25:34.887 [main] INFO  resources.Base - Course Selected Successfully
+15:46:09.522 [main] INFO  resources.Base - Landed into the URL Successfully
+15:46:09.556 [main] INFO  resources.Base - Enrolling New Course
+15:46:39.845 [main] INFO  resources.Base - User Logged in Successfully
+15:46:46.705 [main] INFO  resources.Base - Course Selected Successfully
+15:56:41.781 [main] INFO  resources.Base - Landed into the URL Successfully
+15:57:14.157 [main] INFO  resources.Base - Logged In Successfully
+16:00:29.204 [main] INFO  resources.Base - Landed into the URL Successfully
+16:01:02.664 [main] INFO  resources.Base - Logged In Successfully
+16:01:41.885 [main] INFO  resources.Base - Landed into the URL Successfully
+16:02:12.800 [main] INFO  resources.Base - Logged In Successfully
+16:17:46.992 [main] INFO  resources.Base - Landed into the URL Successfully
+16:18:18.731 [main] INFO  resources.Base - Logged In Successfully
+16:20:39.019 [main] INFO  resources.Base - Landed into the URL Successfully
+16:21:24.371 [main] INFO  resources.Base - Logged In Successfully
+16:22:25.275 [main] INFO  resources.Base - Landed into the URL Successfully
+16:22:55.660 [main] INFO  resources.Base - Logged In Successfully
+16:23:26.532 [main] INFO  resources.Base - Landed into the URL Successfully
+16:24:00.374 [main] INFO  resources.Base - Logged In Successfully

@@ -1,0 +1,70 @@
+14:49:08.186 [main] INFO  resources.Base - ---------------------------------
+14:49:08.197 [main] INFO  resources.Base - New User Creation
+14:49:16.038 [main] INFO  resources.Base - Landed Into the URL successfully
+14:49:16.043 [main] INFO  resources.Base - Landed Into LogIn Page Successfully
+14:49:23.354 [main] INFO  resources.Base - Logged In Successfully
+14:49:23.449 [main] INFO  resources.Base - Clicked On User Tab
+14:49:29.987 [main] INFO  resources.Base - Clicked On Add New User Tab
+14:49:31.459 [main] INFO  resources.Base - Successfully filled the user creation form
+14:49:40.256 [main] INFO  resources.Base - New User is Created
+14:49:40.256 [main] INFO  resources.Base - ---------------------------------
+14:49:43.383 [main] INFO  resources.Base - ---------------------------------
+14:49:43.383 [main] INFO  resources.Base - New Course Creation
+14:49:58.314 [main] INFO  resources.Base - Logged In Successfully
+14:49:58.408 [main] INFO  resources.Base - Clicked on Course Tab
+14:50:17.548 [main] INFO  resources.Base - New Course Category is created
+14:50:30.801 [main] INFO  resources.Base - New Course is Created
+14:50:30.802 [main] INFO  resources.Base - ---------------------------------
+14:50:33.861 [main] INFO  resources.Base - Landed into the URL Successfully
+14:50:36.823 [main] INFO  resources.Base - Landed into the URL Successfully
+14:50:36.831 [main] INFO  resources.Base - Enrolling New Course
+14:51:07.886 [main] INFO  resources.Base - User Logged in Successfully
+14:51:15.175 [main] INFO  resources.Base - Course Selected Successfully
+14:51:18.193 [main] INFO  resources.Base - Landed into the URL Successfully
+14:51:18.196 [main] INFO  resources.Base - Badge And Feedback
+14:51:47.246 [main] INFO  resources.Base - User Logged in Successfully
+14:51:58.781 [main] INFO  resources.Base - Viewed the Badge
+14:52:01.293 [main] INFO  resources.Base - Feedback already done
+14:52:04.281 [main] INFO  resources.Base - Landed into the URL Successfully
+14:52:04.283 [main] INFO  resources.Base - Course Certification
+14:52:36.208 [main] INFO  resources.Base - User Logged in Successfully
+14:52:42.687 [main] INFO  resources.Base - Course Selected Successfully
+14:52:46.447 [main] INFO  resources.Base - Successfully Downloaded the certificate
+14:52:50.140 [main] INFO  resources.Base - Landed into the URL Successfully
+14:52:50.142 [main] INFO  resources.Base - ---------------------------------
+14:52:50.142 [main] INFO  resources.Base - Edit User Profile
+14:52:58.639 [main] INFO  resources.Base - Landed into the URL Successfully
+14:53:07.677 [main] INFO  resources.Base - Logged In Successfully
+14:53:07.755 [main] INFO  resources.Base - Landed into the DashBoard Page
+14:53:17.821 [main] INFO  resources.Base - Landed into the Edit Profile Page
+14:53:23.412 [main] INFO  resources.Base - User Information Updated Successfully
+14:53:23.412 [main] INFO  resources.Base - ---------------------------------
+14:53:26.927 [main] INFO  resources.Base - ---------------------------------
+14:53:26.927 [main] INFO  resources.Base - Deleting User
+14:53:34.477 [main] INFO  resources.Base - Landed Into the URL successfully
+14:53:34.478 [main] INFO  resources.Base - Landed Into LogIn Page Successfully
+14:53:42.077 [main] INFO  resources.Base - Logged In Successfully
+14:53:42.155 [main] INFO  resources.Base - Clicked On User Tab
+14:53:48.235 [main] INFO  resources.Base - Clicked On Browse List Of User
+14:53:51.542 [main] INFO  resources.Base - Entered the User Name in search box and clicked on Filter
+14:53:54.298 [main] INFO  resources.Base - Clicked On Delete
+14:54:00.901 [main] INFO  resources.Base - User Deleted Successfully
+14:54:00.901 [main] INFO  resources.Base - ---------------------------------
+14:56:19.398 [main] INFO  resources.Base - ---------------------------------
+14:56:19.404 [main] INFO  resources.Base - New User Creation
+14:56:23.729 [main] INFO  resources.Base - Landed Into the URL successfully
+14:56:23.738 [main] INFO  resources.Base - Landed Into LogIn Page Successfully
+14:56:30.802 [main] INFO  resources.Base - ---------------------------------
+14:56:30.803 [main] INFO  resources.Base - New Course Creation
+14:56:35.170 [main] INFO  resources.Base - Landed into the URL Successfully
+14:56:38.061 [main] INFO  resources.Base - Landed into the URL Successfully
+14:56:38.063 [main] INFO  resources.Base - Enrolling New Course
+14:56:43.440 [main] INFO  resources.Base - Landed into the URL Successfully
+14:56:43.442 [main] INFO  resources.Base - Badge And Feedback
+14:57:21.955 [main] INFO  resources.Base - User Logged in Successfully
+14:57:36.386 [main] INFO  resources.Base - Viewed the Badge
+14:57:39.250 [main] INFO  resources.Base - Feedback already done
+14:57:42.368 [main] INFO  resources.Base - Landed into the URL Successfully
+14:57:42.369 [main] INFO  resources.Base - Course Certification
+14:58:19.251 [main] INFO  resources.Base - User Logged in Successfully
+14:58:37.796 [main] INFO  resources.Base - Course Selected Successfully

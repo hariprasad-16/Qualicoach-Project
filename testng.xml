@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="LearningFramework.Listeners"/>
+</listeners>
+	<test thread-count="5" name="NewUserCreation">
+		<classes>
+			<class name="qualicoach.CreateNewUser" /><!-- = -->
+		</classes>
+	</test>
+	<test thread-count="5" name="CreatingNewCourse">
+	
+		<classes>
+			<class name="qualicoach.CreateCourse" /><!--= -->
+		</classes>
+	</test>
+		<test thread-count="5" name="Login">
+	
+		<classes>
+			<class name="qualicoach.UserLogin" /><!--= -->
+		</classes>
+	</test>
+	<test thread-count="5" name="Enrolling New Course">
+		<classes>
+			<class name="qualicoach.CourseEnroll" /><!-- = -->
+		</classes>
+	</test>
+		<test thread-count="5" name="Badge and Feedback">
+		<classes>
+			<class name="qualicoach.BadgeAndFeedBack" /><!-- = -->
+		</classes>
+	</test>
+		<test thread-count="5" name="CertificateDownload">
+		<classes>
+			<class name="qualicoach.CourseCertificate" /><!-- = -->
+		</classes>
+	</test>
+	<test thread-count="5" name="UpdatingUserProfile">
+		<classes>
+			<class name="qualicoach.UpdateUserProfile" /><!-- = -->
+		</classes>
+	</test>
+	<test thread-count="5" name="DeletingUser">
+		<classes>
+			<class name="qualicoach.DeleteUser" /><!-- = -->
+		</classes>
+	</test>
+</suite> <!-- Suite -->
